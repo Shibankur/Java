@@ -9,6 +9,8 @@ class test{
 		int no2 = sc.nextInt();
 		
 		int no3 = no1 + no2;
-		System.out.println(no3);
+		System.out.println("Addition of two numbers: " +no3);
+		
+		System.out.println("Thank you for using my code. ");
 	}
 }
